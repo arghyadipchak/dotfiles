@@ -1,0 +1,6 @@
+[user]
+  name = Arghyadip Chakraborty
+  email = arghyadip.chak16@gmail.com
+
+[push]
+  followTags = true
